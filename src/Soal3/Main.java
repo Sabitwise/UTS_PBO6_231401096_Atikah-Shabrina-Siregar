@@ -1,4 +1,5 @@
 package Soal3;
+//import utilisasi scanner untuk menerima inputan dari user
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
