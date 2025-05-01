@@ -6,7 +6,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int row, col, guess;
         char yn;
-
+        //test
         //menggunakan do while untuk setidaknya memainkan permainan sekali, lalu permainan akan dimainkan kembali jika user ingin mengulang. ditandakan dengan value yang diinput adalah y atau Y
         do{
             boolean main = true;
